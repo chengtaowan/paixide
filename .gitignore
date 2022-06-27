@@ -1,0 +1,20 @@
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/build/intermediates/javac/debug/classes/
+/Module/alipay/build/
+/Module/alipay/build/intermediates/javac/debug/classes/
+/Module/COSTransferPractice/build/
+/Module/COSTransferPractice/build/intermediates/javac/debug/classes/
+/Module/debug/build/
+/Module/debug/build/intermediates/javac/debug/classes/
+/Module/SelectImage/build/
+/Module/SelectImage/build/intermediates/javac/debug/classes/
+/Module/tuikit/build/
+/Module/tuikit/build/intermediates/javac/debug/classes/
+/Module/tuikit-live/build/
+/Module/tuikit-live/build/intermediates/javac/debug/classes/
+/Module/tuivoiceRoom/build/
+/Module/tuivoiceRoom/build/intermediates/javac/debug/classes/
+/Module/tutorial/build/
+/Module/tutorial/build/intermediates/javac/debug/classes/
